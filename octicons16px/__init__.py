@@ -176,6 +176,7 @@ from .tasklist import OCTICON_TASKLIST
 from .telescope import OCTICON_TELESCOPE
 from .terminal import OCTICON_TERMINAL
 from .three_bars import OCTICON_THREE_BARS
+from .thumbsup import OCTICON_THUMBSUP
 from .thumbsdown import OCTICON_THUMBSDOWN
 from .tools import OCTICON_TOOLS
 from .trashcan import OCTICON_TRASHCAN
@@ -194,6 +195,7 @@ from .verified import OCTICON_VERIFIED
 from .versions import OCTICON_VERSIONS
 from .workflow import OCTICON_WORKFLOW
 from .x import OCTICON_X
+from .x_circle_fill import OCTICON_X_CIRCLE_FILL
 from .zap import OCTICON_ZAP
 
 
@@ -241,9 +243,9 @@ OCTICONS = {
     'desktop-download': OCTICON_DESKTOP_DOWNLOAD,
     'device-camera': OCTICON_DEVICE_CAMERA,
     'device-camera-video': OCTICON_DEVICE_CAMERA_VIDEO,
-    'device-desktop': OCTICON_CPU,
-    'device-mobile': OCTICON_CPU,
-    'diff': OCTICON_CPU,
+    'device-desktop': OCTICON_DEVICE_DESKTOP,
+    'device-mobile': OCTICON_DEVICE_MOBILE,
+    'diff': OCTICON_DIFF,
     'diff-added': OCTICON_DIFF_ADDED,
     'diff-ignored': OCTICON_DIFF_IGNORED,
     'diff-modified': OCTICON_DIFF_MODIFIED,
@@ -375,6 +377,7 @@ OCTICONS = {
     'telescope': OCTICON_TELESCOPE,
     'terminal': OCTICON_TERMINAL,
     'three-bars': OCTICON_THREE_BARS,
+    'thumbsup': OCTICON_THUMBSUP,
     'thumbsdown': OCTICON_THUMBSDOWN,
     'tools': OCTICON_TOOLS,
     'trashcan': OCTICON_TRASHCAN,
@@ -392,5 +395,6 @@ OCTICONS = {
     'versions': OCTICON_VERSIONS,
     'workflow': OCTICON_WORKFLOW,
     'x': OCTICON_X,
+    'x-circle-fill': OCTICON_X_CIRCLE_FILL,
     'zap': OCTICON_ZAP
 }
