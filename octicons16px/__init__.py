@@ -347,6 +347,7 @@ OCTICONS = {
     'repo-pull': OCTICON_REPO_PULL,
     'repo-template': OCTICON_REPO_TEMPLATE,
     'report': OCTICON_REPORT,
+    'rocket': OCTICON_ROCKET,
     'rss': OCTICON_RSS,
     'ruby': OCTICON_RUBY,
     'screen-full': OCTICON_SCREEN_FULL,
